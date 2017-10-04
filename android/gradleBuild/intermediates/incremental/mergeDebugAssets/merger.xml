@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\tensorflow\android\assets"><file name="graph.pb" path="D:\tensorflow\android\assets\graph.pb"/><file name="labels.txt" path="D:\tensorflow\android\assets\labels.txt"/><file name="_empty" path="D:\tensorflow\android\assets\_empty"/></source><source path="D:\tensorflow\android\gradleBuild\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\tensorflow\android\build-types\debug\assets"/></dataSet></merger>

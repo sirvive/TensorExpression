@@ -1,0 +1,4 @@
+#Wed Oct 04 13:51:47 EDT 2017
+base.0=D\:\\tensorflow\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0637a184e92692aa06580f255567507f1cdc7bcf
+renamed.0=classes.dex
+file.0=D\:\\tensorflow\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0637a184e92692aa06580f255567507f1cdc7bcf\\classes.dex

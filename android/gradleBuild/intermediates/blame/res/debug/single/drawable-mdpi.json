@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\tensorflow\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_info.png",
+        "source": "D:\\tensorflow\\android\\res\\drawable-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\tensorflow\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\tensorflow\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
